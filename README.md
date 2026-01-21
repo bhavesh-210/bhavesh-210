@@ -108,8 +108,8 @@ const aboutMe = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-210&repo=PROJECT_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bhavesh-210/PROJECT_NAME)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-210&repo=PROJECT_NAME&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bhavesh-210/PROJECT_NAME)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-210&repo=xonen-Game-Website&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bhavesh-210/xonen-Game-Website)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=bhavesh-210&repo=Particle-motion&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/bhavesh-210/Particle-motion)
 
 </div>
 
@@ -120,7 +120,7 @@ const aboutMe = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-sharma-405831373/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavesh123sharma123@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
 
 </div>
