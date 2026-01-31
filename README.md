@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 💀 BHAVESH SHARMA 💀
 
@@ -245,4 +245,4 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 
 **"In a world of 1s and 0s, be the exception that throws the error." 💚**
 
-</div>
+</div> -->
