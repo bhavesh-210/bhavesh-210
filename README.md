@@ -246,3 +246,32 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 **"In a world of 1s and 0s, be the exception that throws the error." 💚**
 
 </div> -->
+
+<h1 align="center">🚀 Bhavesh Sharma</h1>
+<h3 align="center">Building, Breaking, and Figuring Things Out</h3>
+
+---
+
+## ⚡ About Me
+
+- 🎯 Trying to build something **bigger than just projects**
+- 🧠 Learning by doing (and failing fast)
+- 🔧 Currently exploring: **Web Dev, Open Source, Systems**
+- 🚀 Goal: Build a **tech company from India**
+
+---
+
+## 🧩 What I'm Doing Right Now
+
+- 🔨 Contributing to open source (Wagtail, etc.)
+- 🧠 Preparing for real-world tech (not just college theory)
+- ⚔️ Improving problem solving + coding consistency
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+Languages:   HTML | CSS | JavaScript | Python
+Tools:       Git | GitHub | VS Code
+Learning:    DSA | Backend | Systems Design
