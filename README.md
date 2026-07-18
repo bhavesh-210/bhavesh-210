@@ -246,32 +246,393 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 **"In a world of 1s and 0s, be the exception that throws the error." 💚**
 
 </div> -->
+<div align="center">
 
-<h1 align="center">🚀 Bhavesh Sharma</h1>
-<h3 align="center">Building, Breaking, and Figuring Things Out</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0326,50:2E0F5C,100:6D28D9&height=260&section=header&text=BHAVESH&fontSize=70&fontColor=E9D8FD&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Backend%20%26%20Open%20Source&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Engineering+%40+NST+Bengaluru;Embedded+Systems+%2B+Backend+Engineer;ESP32+%7C+Node.js+%7C+Open+Source+Contributor;Building+for+LFX+Mentorship+%2F+GSoC+2027" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=flat-square&labelColor=0F0326"/>
+<img src="https://img.shields.io/badge/Newton%20School%20of%20Technology-Bengaluru-7C3AED?style=flat-square&labelColor=0F0326"/>
+<img src="https://img.shields.io/badge/Base-Ludhiana%2C%20Punjab%2C%20India-8B5CF6?style=flat-square&labelColor=0F0326&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-1E1033?style=for-the-badge&logo=vercel&logoColor=A78BFA"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1E1033?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1E1033?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat-square&color=7C3AED&labelColor=0F0326"/>
+<img src="https://img.shields.io/github/stars/your-github-username?label=Stars&style=flat-square&color=8B5CF6&labelColor=0F0326"/>
+
+</div>
+
+<br/>
 
 ---
 
-## ⚡ About Me
+## ⟡ About
 
-- 🎯 Trying to build something **bigger than just projects**
-- 🧠 Learning by doing (and failing fast)
-- 🔧 Currently exploring: **Web Dev, Open Source, Systems**
-- 🚀 Goal: Build a **tech company from India**
+<img align="right" width="38%" src="https://raw.githubusercontent.com/GraciousMuse/octocat-svg/main/octocat.svg" style="display:none"/>
+
+I'm a second-year **B.Tech Computer Engineering** student at **Newton School of Technology, Bengaluru**, building at the intersection of **embedded systems**, **backend engineering**, and **open source software**. My work spans real-time firmware on ESP32 microcontrollers, production-grade Node.js APIs, and full-stack applications shipped for live clients.
+
+I approach engineering with a **product mindset** — every system I build, from a drone lap-timing rig to a REST API, is designed to be measured, scaled, and shipped, not just demoed. I hold a strict **no-AI-for-code** discipline in my own development practice to ensure depth of understanding over surface-level velocity.
+
+Currently deepening my backend and distributed-systems fundamentals through a structured 16-week curriculum, while actively contributing to open source projects as a pathway toward **LFX Mentorship** and **Google Summer of Code 2027**.
+
+**⟡ Open To:**
+
+<div align="center">
+
+`Open Source Mentorships` &nbsp;•&nbsp; `Backend Engineering Internships` &nbsp;•&nbsp; `Embedded Systems Roles` &nbsp;•&nbsp; `Research Collaborations` &nbsp;•&nbsp; `Hackathon Teams`
+
+</div>
 
 ---
 
-## 🧩 What I'm Doing Right Now
+## ⟡ Tech Stack
 
-- 🔨 Contributing to open source (Wagtail, etc.)
-- 🧠 Preparing for real-world tech (not just college theory)
-- ⚔️ Improving problem solving + coding consistency
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,py,java,html,css&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,redux&theme=dark"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,graphql&theme=dark"/>
+
+**Embedded & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,railway,vercel,linux,vscode,postman,figma&theme=dark"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⟡ AI / ML Expertise
 
-```bash
-Languages:   HTML | CSS | JavaScript | Python
-Tools:       Git | GitHub | VS Code
-Learning:    DSA | Backend | Systems Design
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Generative AI Integration** | 🟣🟣🟣⚪⚪ | Integrated Gemini AI into a full-stack collaborative notes application (Peblo internship project) for AI-assisted note generation |
+| **Applied ML Concepts** | 🟣🟣⚪⚪⚪ | Coursework exposure to probability, statistics, and foundational ML concepts as part of the NST curriculum |
+| **Computer Vision** | 🟣🟣⚪⚪⚪ | Built a gesture-controlled car using MPU9250 motion sensing; experimented with MediaPipe for a Three.js particle-motion project |
+| **Prompt Engineering** | 🟣🟣🟣⚪⚪ | Applies structured prompting for tutoring/architecture-review workflows while maintaining a strict no-AI-for-code implementation discipline |
+
+</div>
+
+---
+
+## ⟡ Featured Projects
+
+<details>
+<summary><b>🛸 FPV Drone Lap Timer</b></summary>
+<br/>
+
+Real-time lap-timing system for FPV drone racing built on dual infrared beam-break detection, wireless telemetry, and a live web dashboard. Selected as an accepted talk for **openSUSE Asia Summit 2026, Indonesia**.
+
+| | |
+|---|---|
+| **Stack** | ESP32, ESP-NOW, IR Sensors, WebSocket, JavaScript |
+| **Scale** | Dual-beam detection across a full race track perimeter |
+| **Performance** | Millisecond-accurate lap detection via dual-IR triangulation logic |
+| **Security** | Local wireless mesh (ESP-NOW) — no external network dependency |
+| **Impact** | Accepted as a conference talk at openSUSE Asia Summit 2026 |
+| **Repository** | `[add repository link]` |
+
+A ground-station ESP32 receives beam-break events from track-side IR transmitter/receiver pairs over ESP-NOW, computes lap splits, and streams them to a browser-based dashboard over WebSockets in real time — built for zero perceptible latency during live races.
+
+</details>
+
+<details>
+<summary><b>🚗 Gesture-Controlled Car</b></summary>
+<br/>
+
+Motion-controlled robotics platform translating hand-gesture orientation data into real-time drive commands.
+
+| | |
+|---|---|
+| **Stack** | ESP32, MPU9250 (IMU), Arduino |
+| **Scale** | Single-unit prototype, real-time control loop |
+| **Performance** | Low-latency gesture-to-motion translation via IMU orientation data |
+| **Security** | Closed local wireless control link |
+| **Impact** | Core hardware-tinkering project demonstrating embedded control systems |
+| **Repository** | `[add repository link]` |
+
+Reads accelerometer/gyroscope data from an MPU9250 to derive hand orientation, mapping tilt vectors to motor driver commands for intuitive gesture-based vehicle control.
+
+</details>
+
+<details>
+<summary><b>📝 Peblo — Collaborative Notes Platform</b></summary>
+<br/>
+
+Full-stack collaborative note-taking application built as an internship deliverable, with integrated AI-assisted content generation.
+
+| | |
+|---|---|
+| **Stack** | React, Node.js, MongoDB, Gemini AI API |
+| **Scale** | Multi-user real-time collaborative editing |
+| **Performance** | Optimized for concurrent multi-session note synchronization |
+| **Security** | Authenticated multi-user access control |
+| **Impact** | Delivered as a complete internship assignment for Peblo |
+| **Repository** | `[add repository link]` |
+
+Combines a real-time collaborative editor with Gemini AI integration for AI-assisted note generation, built end-to-end across frontend, backend, and database layers.
+
+</details>
+
+<details>
+<summary><b>⚙️ Educase India — REST API Platform</b></summary>
+<br/>
+
+Production-style backend REST API built and deployed as an internship technical assignment.
+
+| | |
+|---|---|
+| **Stack** | Node.js, Express, MySQL, Railway |
+| **Scale** | Full CRUD REST API with relational data modeling |
+| **Performance** | Deployed live on Railway with persistent MySQL backing |
+| **Security** | Structured request validation and relational data integrity |
+| **Impact** | Delivered as a complete internship technical assignment for Educase India |
+| **Repository** | `[add repository link]` |
+
+Designed and implemented a relational schema in MySQL, exposed through a Node.js/Express REST API, and deployed to Railway for live evaluation.
+
+</details>
+
+<details>
+<summary><b>🌐 Wagtail CMS — Open Source Contributions</b></summary>
+<br/>
+
+Contributions to the Wagtail CMS open source ecosystem as part of building toward structured mentorship programs.
+
+| | |
+|---|---|
+| **Stack** | Python, Django, Wagtail CMS |
+| **Scale** | Contributions to an established, widely-used open source CMS |
+| **Performance** | N/A — contribution-based, not a standalone system |
+| **Security** | Followed upstream project review and contribution standards |
+| **Impact** | Foundational open source contribution experience toward LFX/GSoC readiness |
+| **Repository** | [github.com/wagtail/wagtail](https://github.com/wagtail/wagtail) |
+
+Hands-on contribution work within an established open source codebase, used as groundwork for pursuing LFX Mentorship and GSoC 2027 applications.
+
+</details>
+
+<details>
+<summary><b>📡 SenseBoard — IoT Dashboard</b></summary>
+<br/>
+
+IoT sensor dashboard built for Hack Club Jackpot, aggregating live sensor data into a monitoring interface.
+
+| | |
+|---|---|
+| **Stack** | ESP32, Sensors, JavaScript, WebSocket Dashboard |
+| **Scale** | Multi-sensor real-time data aggregation |
+| **Performance** | Live-streamed sensor telemetry to a web dashboard |
+| **Security** | Local network telemetry pipeline |
+| **Impact** | Primary project submission for Hack Club Jackpot |
+| **Repository** | `[add repository link]` |
+
+Aggregates readings from multiple embedded sensors into a unified real-time dashboard, built as a primary submission for a hardware-focused hackathon track.
+
+</details>
+
+---
+
+## ⟡ Experience
+
+<br/>
+
+**Tech & Growth Intern** · Shades of You  
+*2026*
+
+Audited a live Shopify storefront for accessibility and UX failures and prepared a demo-based improvement submission under real-world access constraints.
+
+- Conducted a full accessibility audit of a production e-commerce storefront
+- Identified UX and accessibility failure points without native admin access
+- Prepared a demo-based submission simulating proposed fixes
+
+`Shopify` `Accessibility Audit` `UX Analysis`
+
+<br/>
+
+**Full-Stack Development Intern** · Peblo  
+*2026*
+
+Built a full-stack collaborative notes application integrating generative AI for content assistance.
+
+- Designed and implemented real-time collaborative editing features
+- Integrated Gemini AI for AI-assisted note generation
+- Delivered a complete production-style full-stack application
+
+`React` `Node.js` `MongoDB` `Gemini AI`
+
+<br/>
+
+**Backend Development Intern** · Educase India  
+*2025*
+
+Designed and deployed a relational backend REST API as a technical assignment.
+
+- Built a Node.js/Express REST API with full CRUD operations
+- Designed a relational schema in MySQL
+- Deployed the service live on Railway
+
+`Node.js` `Express` `MySQL` `Railway`
+
+---
+
+## ⟡ Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **Accepted Speaker — openSUSE Asia Summit 2026** | Talk proposal on the FPV Drone Lap Timer project accepted for the Indonesia summit |
+| **5th Place — Hack Club Campfire Bengaluru** | Placed 5th in a competitive hackathon field |
+| **Smart India Hackathon — Participant** | Built and pitched a solution as part of India's national-level hackathon |
+| **Hack Club Jackpot — Contributor** | Delivered SenseBoard IoT dashboard as a primary project submission |
+
+</div>
+
+---
+
+## ⟡ Certifications
+
+> Grouped by provider — add your verified certification titles and badge links below.
+
+**AWS**
+
+`[Add AWS certification]`
+
+**Oracle**
+
+`[Add Oracle certification]`
+
+**NPTEL**
+
+`[Add NPTEL certification]`
+
+**Cisco**
+
+`[Add Cisco certification]`
+
+---
+
+## ⟡ Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/your-username"><img src="https://img.shields.io/badge/LeetCode-1E1033?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://www.geeksforgeeks.org/user/your-username"><img src="https://img.shields.io/badge/GeeksforGeeks-1E1033?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a>
+<a href="https://www.hackerrank.com/your-username"><img src="https://img.shields.io/badge/HackerRank-1E1033?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
+<a href="https://www.codechef.com/users/your-username"><img src="https://img.shields.io/badge/CodeChef-1E1033?style=for-the-badge&logo=codechef&logoColor=5B4638"/></a>
+
+</div>
+
+---
+
+## ⟡ GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D8FD&ring_color=6D28D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&background=0F0326&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&text_color=E9D8FD"/>
+
+</div>
+
+---
+
+## ⟡ GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+## ⟡ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&bg_color=0F0326&color=A78BFA&line=8B5CF6&point=E9D8FD&hide_border=true"/>
+
+</div>
+
+---
+
+## ⟡ Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## ⟡ Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - "Node.js & backend systems (16-week structured curriculum)"
+    - "Distributed systems fundamentals"
+    - "Open source contribution workflows"
+  building:
+    - "FPV Drone Lap Timer — dashboard & telemetry refinements"
+    - "Backend projects for LFX Mentorship Term 3 application"
+  exploring:
+    - "openSUSE ecosystem for GSoC-aligned contributions"
+    - "Embedded systems + cloud integration patterns"
+  open_to:
+    - "LFX Mentorship Term 3"
+    - "Google Summer of Code 2027"
+    - "Backend / Embedded Systems Internships"
+```
+
+---
+
+## ⟡ Connect
+
+<div align="center">
+
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-1E1033?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1E1033?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+<a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-1E1033?style=for-the-badge&logo=vercel&logoColor=A78BFA"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build what you'd bet your name on."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2E0F5C,100:0F0326&height=140&section=footer" width="100%"/>
+
+</div>
