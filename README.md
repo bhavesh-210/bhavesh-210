@@ -248,18 +248,18 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 </div> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,6A5ACD&section=header&height=200&text=Enterprise%20Engineering&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%7C%20AI%20Specialist&descAlignY=60&descAlign=50&descSize=20&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,6A5ACD&section=header&height=200&text=Bhavesh%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descAlign=50&descSize=20&fontColor=ffffff" width="100%" alt="Header Banner" />
   
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Staff+Software+Engineer;Artificial+Intelligence+%26+Machine+Learning;High-Performance+Distributed+Systems;Product-Minded+Engineering" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Open+Source+Contributor+(Wagtail);Robotics+%26+Embedded+Systems;B.Tech+CS+%40+Newton+School+of+Technology" alt="Typing SVG Animation" />
   <br><br>
 
-  <img src="https://img.shields.io/badge/M.S._Computer_Science-111111?style=for-the-badge&logo=googlescholar&logoColor=9370DB&borderColor=4B0082" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/San_Francisco,_CA-111111?style=for-the-badge&logo=googlemaps&logoColor=9370DB&borderColor=4B0082" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/B.Tech_Computer_Science-111111?style=for-the-badge&logo=googlescholar&logoColor=9370DB&borderColor=4B0082" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Bengaluru,_Karnataka-111111?style=for-the-badge&logo=googlemaps&logoColor=9370DB&borderColor=4B0082" alt="Location Badge" />
   <br><br>
 
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=web&logoColor=9370DB&borderColor=4B0082" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/bhavesh-sharma-405831373/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=9370DB&borderColor=4B0082" alt="LinkedIn" /></a>
+  <a href="https://github.com/bhavesh-210"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=web&logoColor=9370DB&borderColor=4B0082" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bhavesh-sharma-405831373/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=9370DB&borderColor=4B0082" alt="LinkedIn" /></a>
   <a href="mailto:bhavesh123sharma123@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=minutemailer&logoColor=9370DB&borderColor=4B0082" alt="Email" /></a>
   <a href="https://github.com/bhavesh-210"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=9370DB&borderColor=4B0082" alt="GitHub" /></a>
   <br><br>
@@ -275,12 +275,12 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 
 ## ✦ About Me
 
-**Staff Software Engineer** with over a decade of experience architecting highly scalable distributed systems and deploying production-grade **Artificial Intelligence & Machine Learning** models. I specialize in bridging the gap between cutting-edge algorithmic research and robust, enterprise-scale backend infrastructure. My approach is rooted in product engineering, ensuring that technical complexity translates into measurable business value.
+**Aspiring Software Engineer** and Computer Science student pursuing my B.Tech at Newton School of Technology (in collaboration with S-VYASA). I specialize in bridging hardware and software, leveraging strong fundamentals in full-stack web development, robotics, and embedded systems. My approach is rooted in solving real-world challenges—whether through submitting code to large-scale open-source projects or building interactive hardware-software solutions. 
 
-- **AI / ML Expertise:** Deep Learning, Large Language Models (LLMs), Computer Vision, Distributed Training, and MLOps pipelines.
-- **Full Stack Engineering:** Designing resilient microservices, high-throughput REST/gRPC APIs, event-driven architectures, and optimizing distributed database performance.
-- **Product Mindset:** Dedicated to building scalable, user-centric solutions with a focus on observability, zero-downtime deployments, and latency optimization.
-- **Open To:** Staff/Principal Engineering Roles, AI Architect positions, enterprise open-source collaborations, and strategic technical consulting.
+- **Full Stack Development:** Architecting responsive, component-based web applications using JavaScript, React.js, Next.js, and Tailwind CSS.
+- **Open Source Engineering:** Actively contributing to production-grade repositories (e.g., Wagtail), managing Git-based workflows, and engaging in rigorous peer-review cycles.
+- **Robotics & AI Integrations:** Building gesture-controlled hardware utilizing ESP32 microcontrollers, custom 3D printed components, and implementing AI-powered computer vision (MediaPipe).
+- **Open To:** Google Summer of Code (GSoC) opportunities, software engineering internships, and collaborative open-source ecosystem development.
 
 ---
 
@@ -289,107 +289,104 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,go,rust,ts,java,cpp,scala,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css&theme=dark" alt="Languages" />
 
 ### Frontend Architecture
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,webpack,vite,wasm,figma&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" alt="Frontend" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,fastapi,postgres,mongodb,redis,kafka&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,mysql,mongodb,postman&theme=dark" alt="Backend" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux,nginx&theme=dark" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux&theme=dark" alt="Cloud & DevOps" />
 
 </div>
 
 ---
 
-## ✦ AI / ML Expertise
+## ✦ Core Technical Expertise
 
 | Domain | Proficiency | Detailed Competencies |
 | :--- | :--- | :--- |
-| **Natural Language Processing** | Advanced | Transformers, Fine-tuning LLMs (Llama, GPT), RAG architectures, Vector DBs (Milvus, Pinecone), Semantic Search |
-| **Computer Vision** | Advanced | Object Detection (YOLOv8, Faster R-CNN), Image Segmentation, GANs, OpenCV, High-throughput Video Pipelines |
-| **Predictive Modeling** | Expert | XGBoost, LightGBM, Random Forests, Time Series Forecasting (ARIMA, Prophet), Risk/Churn Modeling |
-| **MLOps & Infrastructure** | Expert | Model Registry (MLflow), Serving (TensorRT, Triton, FastAPI), Drift Detection, Kubeflow, Ray |
+| **Open Source Development** | Advanced | Git version control, CI/CD pipelines, issue triaging, writing testing documentation, large-scale CMS (Django/Python) contributions. |
+| **Full Stack Engineering** | Intermediate | DOM manipulation, state management (React/Next.js), dynamic UI/UX design, API integrations, cross-device responsive layouts. |
+| **Robotics & Embedded Systems** | Intermediate | Hardware-software integration, real-time sensor communication, ESP32 networking, embedded C/C++, 3D printed component design. |
+| **AI Integration & Vision** | Intermediate | Generative AI prompt engineering, AI agents (Claude Code, n8n), MediaPipe Hands tracking, Canvas API interactive visualizations. |
 
 ---
 
 ## ✦ Featured Projects
 
 <details>
-<summary><b>Project Alpha: Distributed RAG Engine for Enterprise Knowledge Retrieval</b></summary>
+<summary><b>Gesture Controlled Robotic Vehicle</b></summary>
 <br>
 
-A scalable Retrieval-Augmented Generation (RAG) microservice built to handle sub-second semantic search across 50M+ enterprise documents securely. 
+An interactive robotic system designed from scratch, enabling touch-free vehicle control and showcasing practical applications of embedded microcontrollers.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, FastAPI, Go, PostgreSQL, Pinecone, LangChain, Ray |
-| **Scale** | 50M+ vectorized documents, 10k+ concurrent search queries/sec |
-| **Performance** | < 200ms p99 latency for semantic retrieval and context generation |
-| **Security** | End-to-end encryption, Role-Based Access Control (RBAC) at the document level |
-| **Impact** | Reduced enterprise search time by 85%, saving an estimated 12,000 engineering hours annually |
-| **Repository** | [Private / Enterprise Monorepo](#) |
+| **Stack** | Embedded C++, 2x ESP32 Microcontrollers, Sensors, 3D Printing |
+| **Scale** | Real-time hardware-software sensor communication |
+| **Performance** | Low-latency instruction transfer between dual ESP32 units |
+| **Impact** | Solved hand gesture translation into reliable kinematic movement commands |
+| **Repository** | [github.com/bhavesh-210/Gesture-Controlled-Car](#) |
 
-*Professional Explanation:* Architected a hybrid-search pipeline combining dense vector embeddings with sparse BM25 retrieval. Deployed via Kubernetes with auto-scaling inference nodes using Ray Serve, optimizing GPU utilization across the cluster.
+*Professional Explanation:* Engineered a custom robotic chassis utilizing a 3D printer for structural components. Replaced standard Bluetooth limitations by programming two ESP32 units to handle dedicated high-speed sensor communication, translating complex human hand telemetry into precise motor control vectors.
 </details>
 
 <details>
-<summary><b>Project Beta: High-Frequency Trading Telemetry Pipeline</b></summary>
+<summary><b>Blackout:X / Xonen Gaming Platform</b></summary>
 <br>
 
-A robust, event-driven data ingestion pipeline designed for real-time market data analysis and anomaly detection using machine learning.
+A production-grade, highly responsive front-end architecture for a cinematic sci-fi battle royale game website, built with modern UI/UX principles.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Rust, Apache Kafka, Apache Flink, ClickHouse, Grafana |
-| **Scale** | Processing 5TB+ of tick data daily, 2M+ events per second |
-| **Performance** | Sub-millisecond latency for event processing and normalization |
-| **Security** | TLS 1.3 for in-transit data, strict network isolation policies |
-| **Impact** | Enabled real-time predictive models to detect market anomalies 40% faster than legacy systems |
-| **Repository** | [github.com/bhavesh-210/telemetry-pipeline](#) |
+| **Stack** | React.js, Tailwind CSS, JavaScript, HTML5 |
+| **Style** | Futuristic, aggressive, animated cyberpunk aesthetic |
+| **Performance** | Optimized loopable video rendering and high-fps CSS animations |
+| **Impact** | Enhanced user retention through smooth navigation and immersive design |
+| **Repository** | [github.com/bhavesh-210/Xonen-Game-Website](#) |
 
-*Professional Explanation:* Leveraged Rust's zero-cost abstractions for the ingestion layer to minimize memory overhead. Utilized Apache Flink for stateful stream processing and ClickHouse for columnar analytics, providing real-time OLAP capabilities to the data science teams.
+*Professional Explanation:* Solved critical cross-device layout and layout-shift challenges by implementing strict reusable component architectures. The platform integrates aggressive cyberpunk design language with robust performance standards, ensuring a premium user experience across all form factors.
 </details>
 
 <details>
-<summary><b>Project Gamma: Serverless Model Serving Platform</b></summary>
+<summary><b>Particle Motion: AI Computer Vision Interface</b></summary>
 <br>
 
-An open-source infrastructure-as-code (IaC) solution for deploying machine learning models on serverless cloud architectures with zero-scale capabilities.
+An immersive computer vision experiment integrating Google's MediaPipe tracking models with dynamic browser rendering.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | TypeScript, AWS CDK, AWS Lambda, API Gateway, Docker |
-| **Scale** | Handles variable loads from 0 to 50k requests/minute |
-| **Performance** | Cold starts mitigated to < 1.5s using snapstart and optimized container images |
-| **Security** | IAM least-privilege policies, AWS WAF integration |
-| **Impact** | Reduced ML infrastructure costs by 60% for non-continuous batch inference jobs |
-| **Repository** | [github.com/bhavesh-210/serverless-ml-serve](#) |
+| **Stack** | JavaScript Canvas API, MediaPipe Hands |
+| **Scale** | Real-time multi-point vector tracking at 60fps |
+| **Performance** | Highly optimized mathematical particle calculations within the JS game loop |
+| **Impact** | Demonstrated practical AI-powered user interaction design natively in the browser |
+| **Repository** | [github.com/bhavesh-210/Particle-Motion](#) |
 
-*Professional Explanation:* Designed a fully automated CI/CD pipeline using GitHub Actions to package model weights and inference code into optimized Docker containers, deployed seamlessly to AWS Lambda using the AWS CDK.
+*Professional Explanation:* Tackled the complex mathematical conversion of real-time spatial hand-tracking coordinates into kinetic particle behaviors. The resulting physics engine allows users to seamlessly manipulate digital matter using natural physical gestures without peripheral hardware.
 </details>
 
 ---
 
 ## ✦ Experience
 
-**Staff Software Engineer**  
-*Enterprise Tech Corp.* • *Jan 2021 – Present*  
-Leading a cross-functional organization of 20+ engineers in the modernization of legacy monolithic architectures into scalable, AI-driven microservices.
-- Spearheaded the design and deployment of a federated machine learning platform, improving model accuracy by 14% while maintaining strict data localization compliance.
-- Architected an asynchronous event-driven billing pipeline handling $50M+ in daily transaction volume with 99.999% availability.
-- Mentored senior engineers, defined engineering standards, and introduced rigorous RFC (Request for Comments) technical planning processes.  
-> **Skills:** Distributed Systems, System Design, Go, Python, Kubernetes, AWS, Machine Learning
+**Tech Lead, FPV Drone Racing**  
+*Aayam Tech Fest, Newton School of Technology* • *March 2026*  
+Led the technical infrastructure and logistical planning for a competitive robotics-focused FPV (First Person View) drone racing event accommodating 12-15 engineering teams.
+- Designed custom track layouts featuring variable rounds and complex physical hurdles.
+- Resolved real-time technical telemetry and operational issues to maintain strict safety protocols and fairness.
+- Coordinated stakeholder communication and managed event pacing, demonstrating strong technical project management.  
+> **Skills:** Robotics, Event Management, Technical Troubleshooting, Hardware Logistics
 
-**Senior Machine Learning Engineer**  
-*DataScale AI.* • *Jun 2017 – Dec 2020*  
-Focused on the training, optimization, and deployment of deep learning models for natural language understanding and automated customer support.
-- Optimized transformer-based NLP models, reducing inference latency by 45% using ONNX runtime and TensorRT quantization.
-- Built a continuous training (CT) MLOps pipeline that automatically retrained models upon detecting data drift, reducing model degradation by 30%.
-- Authored 3 patents related to efficient embedding storage and retrieval in distributed databases.  
-> **Skills:** PyTorch, NLP, MLOps, C++, Docker, CI/CD, Redis
+**Open Source Contributor**  
+*Wagtail CMS (Django/Python)* • *Oct 2025 – April 2026*  
+Actively contributed to a massive production-grade CMS ecosystem used by global enterprises.
+- Authored essential technical documentation on testing document upload forms, closing long-standing organizational issues.
+- Debugged and pushed PRs correcting UI elements and administrative icon layouts within the CMS dashboard.
+- Navigated rigorous code-review cycles with senior maintainers, adopting enterprise-level Git workflows.  
+> **Skills:** Python, Django, Open Source Collaboration, Git/GitHub, Technical Writing
 
 ---
 
@@ -399,30 +396,26 @@ Focused on the training, optimization, and deployment of deep learning models fo
 
 | Recognition | Details |
 | :--- | :--- |
-| 🏆 **Top 1% Contributor** | Recognized among the top open-source contributors in the Apache Software Foundation ecosystem (2023) |
-| 🚀 **Hackathon Winner** | 1st Place out of 200+ teams at the Global AI Enterprise Hackathon for a real-time deepfake detection API |
-| 📚 **Published Author** | Co-authored "Scalable ML Architectures" featured in the IEEE International Conference on Cloud Computing |
-| 💡 **Patent Holder** | Awarded US Patent #10,XXX,XXX for "Optimized Caching Strategies in Distributed Vector Databases" |
+| 🏆 **Hacktoberfest 2025** | Successfully completed the global open-source challenge by submitting high-quality pull requests |
+| 🚀 **AI-on-Demand Contributor** | Selected applicant for the competitive AI-on-Demand platform contribution period (March 2026) |
+| 📚 **Academic Excellence** | Maintaining an 8.2/10.0 CGPA while managing extensive extracurricular engineering projects |
+| 💡 **Hardware Innovator** | Successfully bridged the gap between software programming and physical manufacturing (3D printing) |
 
 </div>
 
 ---
 
-## ✦ Certifications
+## ✦ Certifications & Coursework
 
 <div align="center">
 
-### AWS
-<img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-111111?style=flat-square&logo=amazonwebservices&logoColor=8A2BE2&borderColor=4B0082" alt="AWS SA" />
-<img src="https://img.shields.io/badge/AWS_Certified_Machine_Learning-111111?style=flat-square&logo=amazonwebservices&logoColor=8A2BE2&borderColor=4B0082" alt="AWS ML" />
+### Core Computer Science
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-111111?style=flat-square&logo=cplusplus&logoColor=8A2BE2&borderColor=4B0082" alt="DSA" />
+<img src="https://img.shields.io/badge/Database_Management_Systems-111111?style=flat-square&logo=mysql&logoColor=8A2BE2&borderColor=4B0082" alt="DBMS" />
 
-### Oracle & Cisco
-<img src="https://img.shields.io/badge/Oracle_Certified_Professional_Java_SE-111111?style=flat-square&logo=oracle&logoColor=8A2BE2&borderColor=4B0082" alt="Oracle Java" />
-<img src="https://img.shields.io/badge/Cisco_Certified_Network_Associate-111111?style=flat-square&logo=cisco&logoColor=8A2BE2&borderColor=4B0082" alt="CCNA" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL_Deep_Learning_Elite-111111?style=flat-square&logo=nptel&logoColor=8A2BE2&borderColor=4B0082" alt="NPTEL DL" />
-<img src="https://img.shields.io/badge/NPTEL_Cloud_Computing-111111?style=flat-square&logo=nptel&logoColor=8A2BE2&borderColor=4B0082" alt="NPTEL Cloud" />
+### Advanced Tooling
+<img src="https://img.shields.io/badge/Generative_AI_&_Prompt_Engineering-111111?style=flat-square&logo=openai&logoColor=8A2BE2&borderColor=4B0082" alt="GenAI" />
+<img src="https://img.shields.io/badge/Node_Workflow_Automation_(n8n)-111111?style=flat-square&logo=n8n&logoColor=8A2BE2&borderColor=4B0082" alt="n8n" />
 
 </div>
 
@@ -432,10 +425,10 @@ Focused on the training, optimization, and deployment of deep learning models fo
 
 ## ✦ Coding Profiles
 
-<a href="#"><img src="https://img.shields.io/badge/LeetCode_2000+_Rating-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&borderColor=4B0082" alt="LeetCode" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks_Institute_Rank_1-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46&borderColor=4B0082" alt="GeeksforGeeks" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank_5_Star_Gold-111111?style=for-the-badge&logo=hackerrank&logoColor=00EA64&borderColor=4B0082" alt="HackerRank" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef_5_Star_Coder-111111?style=for-the-badge&logo=codechef&logoColor=5B4638&borderColor=4B0082" alt="CodeChef" /></a>
+<a href="https://github.com/bhavesh-210"><img src="https://img.shields.io/badge/GitHub_bhavesh--210-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=4B0082" alt="GitHub" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode_Profile-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&borderColor=4B0082" alt="LeetCode" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks_Profile-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46&borderColor=4B0082" alt="GeeksforGeeks" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank_Profile-111111?style=for-the-badge&logo=hackerrank&logoColor=00EA64&borderColor=4B0082" alt="HackerRank" /></a>
 
 </div>
 
@@ -481,14 +474,14 @@ Focused on the training, optimization, and deployment of deep learning models fo
 ```yaml
 Current_Status:
   Learning:
-    - "Advanced Tensor Parallelism in distributed GPU clusters"
-    - "Rust for safe, high-performance systems-level tooling"
+    - "Mastering Python, Next.js, and advanced TypeScript"
+    - "Advanced 3D modeling and printing techniques for custom robotics components"
   Building:
-    - "An open-source orchestration engine for autonomous AI agents"
-    - "Scalable graph neural networks for fraud detection"
+    - "A fully dynamic, production-quality food delivery web application using pure Vanilla JS"
+    - "Infrastructure and hurdle designs for the NST FPV Drone Racing event"
   Exploring:
-    - "WebAssembly (WASM) for edge computing inferences"
-    - "Zero-knowledge proofs (ZKPs) in decentralized machine learning"
+    - "Deep integrations between GenAI and Node-based automation pipelines (n8n, MCP)"
+    - "Google Summer of Code (GSoC) organizational projects"
   Open_To:
-    - "Keynote speaking engagements on Enterprise AI Architecture"
-    - "Staff/Principal level engineering opportunities in deep tech"
+    - "Google Summer of Code (GSoC) 2026 roles"
+    - "Software Engineering and Full-Stack Internships"
