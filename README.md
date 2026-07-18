@@ -425,7 +425,8 @@ Actively contributed to a massive production-grade CMS ecosystem used by global 
 
 ## ✦ Coding Profiles
 
-<a href="https://github.com/bhavesh-210"><img src="https://img.shields.io/badge/GitHub_bhavesh--210-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=4B0082" alt="GitHub" /></a>
+<!-- Replace the '#' in the href attributes below with your actual profile links! -->
+<a href="#"><img src="https://img.shields.io/badge/GitHub_bhavesh--210-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=4B0082" alt="GitHub" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LeetCode_Profile-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&borderColor=4B0082" alt="LeetCode" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks_Profile-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46&borderColor=4B0082" alt="GeeksforGeeks" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HackerRank_Profile-111111?style=for-the-badge&logo=hackerrank&logoColor=00EA64&borderColor=4B0082" alt="HackerRank" /></a>
@@ -437,8 +438,8 @@ Actively contributed to a massive production-grade CMS ecosystem used by global 
 ## ✦ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavesh-210&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A97BFF&text_color=C9D1D9&icon_color=8A2BE2&ring_color=4B0082" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-210&layout=compact&hide_border=true&bg_color=0D1117&title_color=A97BFF&text_color=C9D1D9&icon_color=8A2BE2" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavesh-210&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A97BFF&text_color=C9D1D9&icon_color=8A2BE2&ring_color=4B0082&v=1" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-210&layout=compact&hide_border=true&bg_color=0D1117&title_color=A97BFF&text_color=C9D1D9&icon_color=8A2BE2&v=1" height="195" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-210&hide_border=true&background=0D1117&stroke=00000000&ring=8A2BE2&fire=A97BFF&currStreakNum=C9D1D9&currStreakLabel=8B949E&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 </div>
@@ -448,7 +449,7 @@ Actively contributed to a massive production-grade CMS ecosystem used by global 
 ## ✦ GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavesh-210&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&title=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavesh-210&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&title=false&v=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -456,7 +457,7 @@ Actively contributed to a massive production-grade CMS ecosystem used by global 
 ## ✦ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh-210&bg_color=0D1117&color=A97BFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh-210&bg_color=0D1117&color=A97BFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&v=1" width="100%" alt="Activity Graph" />
 </div>
 
 ---
