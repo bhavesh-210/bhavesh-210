@@ -264,14 +264,14 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 
 <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-1E1033?style=for-the-badge&logo=vercel&logoColor=A78BFA"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1E1033?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1E1033?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+<a href="mailto:2102508727@svyasa-sas.edu.in"><img src="https://img.shields.io/badge/Email-1E1033?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://github.com/bhavesh-210"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=6D28D9&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=flat-square&color=7C3AED&labelColor=0F0326"/>
-<img src="https://img.shields.io/github/stars/your-github-username?label=Stars&style=flat-square&color=8B5CF6&labelColor=0F0326"/>
+<img src="https://komarev.com/ghpvc/?username=bhavesh-210&label=Profile%20Views&color=6D28D9&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/bhavesh-210?label=Followers&style=flat-square&color=7C3AED&labelColor=0F0326"/>
+<img src="https://img.shields.io/github/stars/bhavesh-210?label=Stars&style=flat-square&color=8B5CF6&labelColor=0F0326"/>
 
 </div>
 
@@ -280,8 +280,6 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 ---
 
 ## ⟡ About
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/GraciousMuse/octocat-svg/main/octocat.svg" style="display:none"/>
 
 I'm a second-year **B.Tech Computer Engineering** student at **Newton School of Technology, Bengaluru**, building at the intersection of **embedded systems**, **backend engineering**, and **open source software**. My work spans real-time firmware on ESP32 microcontrollers, production-grade Node.js APIs, and full-stack applications shipped for live clients.
 
@@ -553,12 +551,12 @@ Designed and deployed a relational backend REST API as a technical assignment.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D8FD&ring_color=6D28D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true&background=0F0326&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavesh-210&show_icons=true&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D8FD&ring_color=6D28D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-210&theme=radical&hide_border=true&background=0F0326&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&text_color=E9D8FD"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-210&layout=compact&theme=radical&hide_border=true&bg_color=0F0326&title_color=A78BFA&text_color=E9D8FD"/>
 
 </div>
 
@@ -568,7 +566,7 @@ Designed and deployed a relational backend REST API as a technical assignment.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bhavesh-210&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -578,7 +576,7 @@ Designed and deployed a relational backend REST API as a technical assignment.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&bg_color=0F0326&color=A78BFA&line=8B5CF6&point=E9D8FD&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh-210&theme=react-dark&bg_color=0F0326&color=A78BFA&line=8B5CF6&point=E9D8FD&hide_border=true"/>
 
 </div>
 
@@ -588,7 +586,7 @@ Designed and deployed a relational backend REST API as a technical assignment.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/bhavesh-210/bhavesh-210/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -620,9 +618,9 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-1E1033?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="mailto:2102508727@svyasa-sas.edu.in"><img src="https://img.shields.io/badge/Gmail-1E1033?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-1E1033?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+<a href="https://github.com/bhavesh-210"><img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
 <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-1E1033?style=for-the-badge&logo=vercel&logoColor=A78BFA"/></a>
 
 </div>
