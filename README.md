@@ -471,18 +471,3 @@ Actively contributed to a massive production-grade CMS ecosystem used by global 
 ---
 
 ## ✦ Current Focus -->
-
-```yaml
-Current_Status:
-  Learning:
-    - "Mastering Python, Next.js, and advanced TypeScript"
-    - "Advanced 3D modeling and printing techniques for custom robotics components"
-  Building:
-    - "A fully dynamic, production-quality food delivery web application using pure Vanilla JS"
-    - "Infrastructure and hurdle designs for the NST FPV Drone Racing event"
-  Exploring:
-    - "Deep integrations between GenAI and Node-based automation pipelines (n8n, MCP)"
-    - "Google Summer of Code (GSoC) organizational projects"
-  Open_To:
-    - "Google Summer of Code (GSoC) 2026 roles"
-    - "Software Engineering and Full-Stack Internships" -->
