@@ -247,7 +247,7 @@ console.log(`[ACCESS GRANTED] Welcome, ${hacker.callSign}`);
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,4B0082,6A5ACD&section=header&height=200&text=Bhavesh%20Sharma&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descAlign=50&descSize=20&fontColor=ffffff" width="100%" alt="Header Banner" />
   
   <br>
@@ -426,7 +426,7 @@ Actively contributed to a massive production-grade CMS ecosystem used by global 
 ## ✦ Coding Profiles
 
 <!-- Replace the '#' in the href attributes below with your actual profile links! -->
-<a href="#"><img src="https://img.shields.io/badge/GitHub_bhavesh--210-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=4B0082" alt="GitHub" /></a>
+<!-- <a href="#"><img src="https://img.shields.io/badge/GitHub_bhavesh--210-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&borderColor=4B0082" alt="GitHub" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LeetCode_Profile-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&borderColor=4B0082" alt="LeetCode" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks_Profile-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=298D46&borderColor=4B0082" alt="GeeksforGeeks" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HackerRank_Profile-111111?style=for-the-badge&logo=hackerrank&logoColor=00EA64&borderColor=4B0082" alt="HackerRank" /></a>
@@ -470,7 +470,7 @@ Actively contributed to a massive production-grade CMS ecosystem used by global 
 
 ---
 
-## ✦ Current Focus
+## ✦ Current Focus -->
 
 ```yaml
 Current_Status:
@@ -485,4 +485,4 @@ Current_Status:
     - "Google Summer of Code (GSoC) organizational projects"
   Open_To:
     - "Google Summer of Code (GSoC) 2026 roles"
-    - "Software Engineering and Full-Stack Internships"
+    - "Software Engineering and Full-Stack Internships" -->
